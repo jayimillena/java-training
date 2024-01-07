@@ -2,11 +2,12 @@ public class Hello
 {
   public static void main(String[] arguments)
   {
-    // Literals, with type casting on type conversion
+    // Defining the variables
     int first_number = 1;
     int second_number = 3;
 
-    int result = first_number + second_number;
+    // Basic operators are the following +, -, *, /
+    int result = first_number - second_number;
 
     System.out.println(result);
   }   
