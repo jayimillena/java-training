@@ -2,15 +2,14 @@ public class Hello
 {
   public static void main(String[] arguments)
   {
-    // Defining the variables
-    int first_number = 1;
-    int second_number = 3;
+    // Define the variable number
+    int number = 6;
 
-    // Modolus operator
-    int result = first_number % second_number;
+    // Incrementing number
+    number++;
 
-    // Display output
-    System.out.println(result);
+    // Displaying the result
+    System.out.println(number);
   }   
 }
 
