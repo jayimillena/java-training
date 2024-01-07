@@ -6,7 +6,7 @@ public class Hello
     int number = 6;
 
     // Incrementing number using pre increment
-    ++number;
+    --number;
 
     // Displaying the result
     System.out.println(number);
