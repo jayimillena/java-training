@@ -9,6 +9,7 @@ public class Hello
     // Modolus operator
     int result = first_number % second_number;
 
+    // Display output
     System.out.println(result);
   }   
 }
