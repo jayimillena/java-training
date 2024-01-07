@@ -6,8 +6,8 @@ public class Hello
     int first_number = 1;
     int second_number = 3;
 
-    // Basic operators are the following +, -, *, /
-    int result = first_number - second_number;
+    // Modolus operator
+    int result = first_number % second_number;
 
     System.out.println(result);
   }   
