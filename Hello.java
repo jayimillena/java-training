@@ -3,10 +3,12 @@ public class Hello
   public static void main(String[] arguments)
   {
     // Literals, with type casting on type conversion
-    byte b = 127;
-    int a = 12;
+    int first_number = 1;
+    int second_number = 3;
 
-    System.out.println(b == (byte) a);
+    int result = first_number + second_number;
+
+    System.out.println(result);
   }   
 }
 
