@@ -5,8 +5,8 @@ public class Hello
     // Define the variable number
     int number = 6;
 
-    // Incrementing number
-    number++;
+    // Incrementing number using pre increment
+    ++number;
 
     // Displaying the result
     System.out.println(number);
